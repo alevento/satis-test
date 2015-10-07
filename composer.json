@@ -1,0 +1,13 @@
+{
+    "name": "padosoft/satis-test",
+    "description": "test satis",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "alevento",
+            "email": "alessandro.manneschi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
